@@ -3,7 +3,7 @@
 ## Overview
 
 # Explore the power of data with my vibrant Power BI project! 📊 
-## 1.[Car Insurance Claim Analysis](https://public.tableau.com/views/Project_1_16948911322340/CarInsuranceClaimAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
+## 1.Car Insurance Claim Analysis [link](https://public.tableau.com/views/Project_1_16948911322340/CarInsuranceClaimAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 # Story:
 The Story of Insurance claim analysis report
 
@@ -33,21 +33,52 @@ The Story of Insurance claim analysis report
 - Suggestion:- Try to make more customers having car type minivan, some worst case pick up is also considerable.
 
 
-# Preview
+## 2.Boston Condo[link](https://public.tableau.com/views/Project_2_16958428012320/BostonCondoStory?:language=en-US&:display_count=n&:origin=viz_share_link)
+# Story:
+Boston Condo Real Estate Agency
 
-Check out a sneak peek of the dashboard or report below:
-[link_to_preview_image](https://www.novypro.com/project/pizza-sales-dash-board)
+- Story Board 1: In Boston the total Sales is High in M Area and the Top 4 Area Including M which is HS,E,RA were contributing around 70% of Total Sales. But the Average Sales Top most area goes to E, Followed by HS,AG,W,RA. So, these are the Top 5 Area Which is Contributing the Total sales and its Average.
+- Story Board 2: Why the average sale of Area E is Higher than the Area M ??. Yes, because the Area M contains Avg. Sales over the range of 40K --- 260K and its Outliers were like only one customer. And in the Area E doesn't hold as many customers like Area M, also it's sales doesn't range like M, it holds 50K --- 250K , but also 350K --- 600K there are few customers, 850K one customers. So, this makes Outliers, the distribution is not normal though. Considering all this the Area M is Considered by more customers and may be because their budget lies in that range or It may also doesn't lie in the area of Residential let Drill Down Further in the Upcoming Stories.
+- Story Board 3: Yes it is because the area E only contributes for Commercial purposes only not even a single Residential this area doesn't sold for. By Comparing all other areas with RC Category, the Top 3 Residential Areas are M,HS,RA and similarly the Top 3 Commercial Purpose Areas are M,HS,E. Let's Drill down into the deep. In the Data Interpretation table the Interior Sq.ft of M is almost as similar to its own commercial purposes so, people are most likely to buy this area even its avg First Price is on Higher Side. Secondly the HS area got less Sq.ft for its residence, but high for its Commercial purposes its Avg. First Price was also like that only for its commercial it cost about 3M dollar's. So, the area E is considered only for Commercial that too its average First Price is Higher than all the other.
+Story Board 3:Let us drill down by avg sale duration between Areas with respect to number of rooms. The Area M is top most priority in all categories which has total of 107 rooms its avg sale duration is also good. This is because it this area lies in the middle of Boston Town. The area HS is Having Second Highest Condo having 86 number of Rooms in it but its sale duration is Higher than the Area M. So this is because these two area are the one which is utilized for both Residential and Commercial Purposes. Regardless the area RA is the third Highest in terms of overall rooms but when it comes to Commercial purposes the Area E comes into play. Let me drill down all the types by showing in the next part of the story which has the whole Boston map which will be good for better analytics.
+- Story Board 4:No of Housing units in the Area M is Higher than all the other Areas. Least Highest is the area FP & C. so, this area doesn't holds as many number of Units. Why specifically I'm targeting the least one?.
+- Story Board 5: Boston Condo Area Map With Respect to Zip Codes. Area M is Covering the most Condos because it lies in the middle. The Area Hs is the one which lies exactly in the Boston City with High Condos. The area NW, K & PS were lying outside the Boston. The area E, FP lies near to Seashore and it makes easier for Transportation. The area C and W may be considered as the area for Schooling because there were so many Universities lies in its range. The Area AG is Considered as the area near to the city Brookline and Roxbury.
+- Story Board 6: This is the Overall analysis, trends, Forecast over the years. In the overall trends over the years. So, the data is only having till the year up to 1994 April, the trend is slightly up towards, where the commercials market of House getting Higher than the Residential. Category wise Forecasting in the year 1995 the commercial market alone itself will be 19M $ and the Residential will be around 17.8M$.The trend its self says the commercial market is getting higher peak than the residential.
+- Summary:
+1.The top 5 Sales over Areas were M, HS, E, RA,AH.
+2.The Avg. sales over area makes different rankings the first goes for E, then HS, AG,W,RA.
+3.These Four areas M, HS, E, RA contributes over 70% of total sales.
 
-## 2.[American Retailers Analysis](https://www.novypro.com/project/american-retailers)
-# Overview:
-🛍️ Step into the world of American Retail with this comprehensive analysis! This Power BI project explores data from various retailers, providing insights into market trends, consumer behavior, and regional variations. Whether you're in retail or just curious about shopping patterns, this dashboard delivers data-driven revelations.
+By analyzing the area M Housing price ranges from 40K - 260K but for Area E this ranges from 50K - 600K
 
-# 🌟 Features
+4.Then by drilling down in terms of RC Category the Area M was having Houses for both residential and some commercial purposes. But the area E was only for Commercial purpose. So that's why it's avg price for house range is Higher than all the other areas.
 
-1. Analyze sales performance for top retailers.
-2. Visualize market share across different product categories.
-3. Explore consumer demographics and preferences.
-4. Monitor regional variations in purchasing behavior.
+5.The Top 3 Residential Areas goes for M ,HS, RA, similarly the Top 3 Commercial Areas goes for M, HS, E.
 
-Check out a sneak peek of the dashboard or report below:
-[link_to_preview_image](https://www.novypro.com/project/american-retailers)
+PEOPLE SHOWING INTEREST TO PURCHASE THE ABOVE 3 AREAS EVEN THOUGH ITS FIRST VALUE QUOTE IS HIGH.
+
+6. The sale duration doesn't have much effect for those Top 3 areas. But, the thing to notice was for area AG , RS, PS IS VERY LESS COMPARED TO ALL OTHER ON THE TOP.
+
+- AG-Residence
+- RS-Residence
+- PS-Commercial
+- FP-Residence
+- C-Residence
+
+7.So, the contribution of AG, RS, PS also add FP & C areas is very less because it is having less number of Housing units in these areas,
+
+8.Let us to be clear the top areas M, HS, RA they are making their good in sales so let it be as it is. IT IS SUGGESTED TO INCREASE THE PRICE RANGE LITTLE IN THESE AREAS.PEOPLE SHOWING HIGH INTEREST IN THESE AREAS IT WILL RESULT IN PROFIT ONLY.
+
+9.Looking at the map the area C goes only for Residential purposes only because there was High number of universities lies within its range like Cambridge.
+
+10.FP and RS area they both located near to seaport and Airport. I would suggest these areas for residential purposes like turning Housing condos to Hotels which will be a good move to advertise will result in High sales over these areas,
+
+11.AG area is near to Brookline town but it lies in the middle of all the areas with respect to our agency which is near to area M and C also near to Brookline town making compromises to the customers that this AG area will be high demand in future it was the middle of all the surroundings in the Boston will be a good move to make more sales,
+
+12,PS area is last which is completely outer to the Boston which is near to Quincy those customers who want to live outside the city without any disturbances this area PS will be a good choice,
+
+OUT OF ALL THE ABOVE 5 AREAS THE TOTAL UNIT IN COUNT IS VERY LESS TRY TO COVER MORE AREAS WITH HOUSES ALSO WITH LITTLE HIGHER IN COMMERCIAL PURPOSES TOO.
+
+BECAUSE THE SALES TRENDS OVER THE YEARS TELLS THE COMMERCIAL CONDOS WILL OVERTAKE THE RESIDENTIAL.
+
+So, suggesting to invest in COMMERCIAL CONDOS LITTLE MORE THAN RESIDENTAIL WOULD BE A GREAT MOVE BECAUSE IN FORECAST YOU HAVE THE POINT....... 
